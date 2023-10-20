@@ -67,9 +67,10 @@ def get_pet_labels(image_dir):
                 if word.isalpha():
                     pet_label += word + " "
 ## Strip off starting/trailing whitespace characters 
-                    pet_label = pet_label.strip()
+                    #pet_label = pet_label.strip()
 ## Prints resulting pet_name
                 print("\nFilename=", in_files[idx], "   Label=", pet_label)
+            pet_label = pet_label.strip()
             if pet_label not in results_dic:
                 results_dic[in_files[idx]] = [pet_label]
             else:
