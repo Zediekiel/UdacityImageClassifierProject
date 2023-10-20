@@ -87,11 +87,8 @@ def classify_images(images_dir, results_dic, model):
        # Processes the results so they can be compared with pet image labels
        # set labels to lowercase (lower) and stripping off whitespace(strip)
        model_label = model_label.lower().strip()
-    
-
     # defines truth as pet image label 
        truth = results_dic[key][0]
-    
        # TODO: 3c. REPLACE pass BELOW with CODE that uses the extend list function
        #           to add the classifier label (model_label) and the value of
        #           1 (where the value of 1 indicates a match between pet image 
@@ -114,3 +111,6 @@ def classify_images(images_dir, results_dic, model):
        # the extend function 
        else:
            results_dic[key].extend([model_label, 0])
+    for key, value in results_dic.items():
+        print(key, value)
+        print()
