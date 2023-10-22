@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: Ian McCandliss
 # DATE CREATED: 10/15/23                                 
-# REVISED DATE: 10/16/23
+# REVISED DATE: 10/20/23
 # PURPOSE: Create the function get_pet_labels that creates the pet labels from 
 #          the image's filename. This function inputs: 
 #           - The Image Folder as image_dir within get_pet_labels function and 
@@ -67,9 +67,10 @@ def get_pet_labels(image_dir):
                 if word.isalpha():
                     pet_label += word + " "
 ## Strip off starting/trailing whitespace characters 
-                    pet_label = pet_label.strip()
+                    #pet_label = pet_label.strip()
 ## Prints resulting pet_name
                 print("\nFilename=", in_files[idx], "   Label=", pet_label)
+            pet_label = pet_label.strip()
             if pet_label not in results_dic:
                 results_dic[in_files[idx]] = [pet_label]
             else:
