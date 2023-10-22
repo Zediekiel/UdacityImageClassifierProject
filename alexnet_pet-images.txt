@@ -3,543 +3,629 @@ Command Line Arguments:
     arch = alexnet 
  dogfile = dognames.txt
 
-Filename= Boston_terrier_02259.jpg    Label= boston
+Filename= polar_bear_04.jpg    Label= polar 
 
-Filename= Boston_terrier_02259.jpg    Label= bostonterrier
+Filename= polar_bear_04.jpg    Label= polar bear 
 
-Filename= Boston_terrier_02259.jpg    Label= bostonterrier
+Filename= polar_bear_04.jpg    Label= polar bear 
 
-Filename= Boxer_02426.jpg    Label= boxer
+Filename= Basset_hound_01034.jpg    Label= basset 
 
-Filename= Boxer_02426.jpg    Label= boxer
+Filename= Basset_hound_01034.jpg    Label= basset hound 
 
-Filename= Dalmatian_04017.jpg    Label= dalmatian
+Filename= Basset_hound_01034.jpg    Label= basset hound 
 
-Filename= Dalmatian_04017.jpg    Label= dalmatian
+Filename= cat_02.jpg    Label= cat 
 
-Filename= Boston_terrier_02285.jpg    Label= boston
+Filename= cat_02.jpg    Label= cat 
 
-Filename= Boston_terrier_02285.jpg    Label= bostonterrier
+Filename= Beagle_01141.jpg    Label= beagle 
 
-Filename= Boston_terrier_02285.jpg    Label= bostonterrier
+Filename= Beagle_01141.jpg    Label= beagle 
 
-Filename= skunk_029.jpg    Label= skunk
+Filename= gecko_02.jpg    Label= gecko 
 
-Filename= skunk_029.jpg    Label= skunk
+Filename= gecko_02.jpg    Label= gecko 
 
-Filename= Dalmatian_04068.jpg    Label= dalmatian
+Filename= Great_dane_05320.jpg    Label= great 
 
-Filename= Dalmatian_04068.jpg    Label= dalmatian
+Filename= Great_dane_05320.jpg    Label= great dane 
 
-Filename= Cocker_spaniel_03750.jpg    Label= cocker
+Filename= Great_dane_05320.jpg    Label= great dane 
 
-Filename= Cocker_spaniel_03750.jpg    Label= cockerspaniel
+Filename= Boston_terrier_02285.jpg    Label= boston 
 
-Filename= Cocker_spaniel_03750.jpg    Label= cockerspaniel
+Filename= Boston_terrier_02285.jpg    Label= boston terrier 
 
-Filename= Great_pyrenees_05367.jpg    Label= great
+Filename= Boston_terrier_02285.jpg    Label= boston terrier 
 
-Filename= Great_pyrenees_05367.jpg    Label= greatpyrenees
+Filename= Great_pyrenees_05367.jpg    Label= great 
 
-Filename= Great_pyrenees_05367.jpg    Label= greatpyrenees
+Filename= Great_pyrenees_05367.jpg    Label= great pyrenees 
 
-Filename= Boston_terrier_02303.jpg    Label= boston
+Filename= Great_pyrenees_05367.jpg    Label= great pyrenees 
 
-Filename= Boston_terrier_02303.jpg    Label= bostonterrier
+Filename= Boston_terrier_02303.jpg    Label= boston 
 
-Filename= Boston_terrier_02303.jpg    Label= bostonterrier
+Filename= Boston_terrier_02303.jpg    Label= boston terrier 
 
-Filename= Dalmatian_04037.jpg    Label= dalmatian
+Filename= Boston_terrier_02303.jpg    Label= boston terrier 
 
-Filename= Dalmatian_04037.jpg    Label= dalmatian
+Filename= Rabbit_002.jpg    Label= rabbit 
 
-Filename= cat_01.jpg    Label= cat
+Filename= Rabbit_002.jpg    Label= rabbit 
 
-Filename= cat_01.jpg    Label= cat
+Filename= Poodle_07927.jpg    Label= poodle 
 
-Filename= Beagle_01170.jpg    Label= beagle
+Filename= Poodle_07927.jpg    Label= poodle 
 
-Filename= Beagle_01170.jpg    Label= beagle
+Filename= Golden_retriever_05182.jpg    Label= golden 
 
-Filename= Basenji_00974.jpg    Label= basenji
+Filename= Golden_retriever_05182.jpg    Label= golden retriever 
 
-Filename= Basenji_00974.jpg    Label= basenji
+Filename= Golden_retriever_05182.jpg    Label= golden retriever 
 
-Filename= Saint_bernard_08010.jpg    Label= saint
+Filename= Poodle_07956.jpg    Label= poodle 
 
-Filename= Saint_bernard_08010.jpg    Label= saintbernard
+Filename= Poodle_07956.jpg    Label= poodle 
 
-Filename= Saint_bernard_08010.jpg    Label= saintbernard
+Filename= gecko_80.jpg    Label= gecko 
 
-Filename= Beagle_01125.jpg    Label= beagle
+Filename= gecko_80.jpg    Label= gecko 
 
-Filename= Beagle_01125.jpg    Label= beagle
+Filename= Saint_bernard_08036.jpg    Label= saint 
 
-Filename= great_horned_owl_02.jpg    Label= great
+Filename= Saint_bernard_08036.jpg    Label= saint bernard 
 
-Filename= great_horned_owl_02.jpg    Label= greathorned
+Filename= Saint_bernard_08036.jpg    Label= saint bernard 
 
-Filename= great_horned_owl_02.jpg    Label= greathornedowl
+Filename= Dalmatian_04037.jpg    Label= dalmatian 
 
-Filename= great_horned_owl_02.jpg    Label= greathornedowl
+Filename= Dalmatian_04037.jpg    Label= dalmatian 
 
-Filename= Great_pyrenees_05435.jpg    Label= great
+Filename= Basenji_00963.jpg    Label= basenji 
 
-Filename= Great_pyrenees_05435.jpg    Label= greatpyrenees
+Filename= Basenji_00963.jpg    Label= basenji 
 
-Filename= Great_pyrenees_05435.jpg    Label= greatpyrenees
+Filename= Miniature_schnauzer_06884.jpg    Label= miniature 
 
-Filename= Beagle_01141.jpg    Label= beagle
+Filename= Miniature_schnauzer_06884.jpg    Label= miniature schnauzer 
 
-Filename= Beagle_01141.jpg    Label= beagle
+Filename= Miniature_schnauzer_06884.jpg    Label= miniature schnauzer 
 
-Filename= cat_07.jpg    Label= cat
+Filename= Beagle_01125.jpg    Label= beagle 
 
-Filename= cat_07.jpg    Label= cat
+Filename= Beagle_01125.jpg    Label= beagle 
 
-Filename= Basenji_00963.jpg    Label= basenji
+Filename= cat_01.jpg    Label= cat 
 
-Filename= Basenji_00963.jpg    Label= basenji
+Filename= cat_01.jpg    Label= cat 
 
-Filename= German_shepherd_dog_04890.jpg    Label= german
+Filename= Golden_retriever_05223.jpg    Label= golden 
 
-Filename= German_shepherd_dog_04890.jpg    Label= germanshepherd
+Filename= Golden_retriever_05223.jpg    Label= golden retriever 
 
-Filename= German_shepherd_dog_04890.jpg    Label= germanshepherddog
+Filename= Golden_retriever_05223.jpg    Label= golden retriever 
 
-Filename= German_shepherd_dog_04890.jpg    Label= germanshepherddog
+Filename= Collie_03797.jpg    Label= collie 
 
-Filename= fox_squirrel_01.jpg    Label= fox
+Filename= Collie_03797.jpg    Label= collie 
 
-Filename= fox_squirrel_01.jpg    Label= foxsquirrel
+Filename= Great_pyrenees_05435.jpg    Label= great 
 
-Filename= fox_squirrel_01.jpg    Label= foxsquirrel
+Filename= Great_pyrenees_05435.jpg    Label= great pyrenees 
 
-Filename= gecko_02.jpg    Label= gecko
+Filename= Great_pyrenees_05435.jpg    Label= great pyrenees 
 
-Filename= gecko_02.jpg    Label= gecko
+Filename= Cocker_spaniel_03750.jpg    Label= cocker 
 
-Filename= Basset_hound_01034.jpg    Label= basset
+Filename= Cocker_spaniel_03750.jpg    Label= cocker spaniel 
 
-Filename= Basset_hound_01034.jpg    Label= bassethound
+Filename= Cocker_spaniel_03750.jpg    Label= cocker spaniel 
 
-Filename= Basset_hound_01034.jpg    Label= bassethound
+Filename= Boston_terrier_02259.jpg    Label= boston 
 
-Filename= Golden_retriever_05182.jpg    Label= golden
+Filename= Boston_terrier_02259.jpg    Label= boston terrier 
 
-Filename= Golden_retriever_05182.jpg    Label= goldenretriever
+Filename= Boston_terrier_02259.jpg    Label= boston terrier 
 
-Filename= Golden_retriever_05182.jpg    Label= goldenretriever
+Filename= Saint_bernard_08010.jpg    Label= saint 
 
-Filename= Golden_retriever_05223.jpg    Label= golden
+Filename= Saint_bernard_08010.jpg    Label= saint bernard 
 
-Filename= Golden_retriever_05223.jpg    Label= goldenretriever
+Filename= Saint_bernard_08010.jpg    Label= saint bernard 
 
-Filename= Golden_retriever_05223.jpg    Label= goldenretriever
+Filename= German_shepherd_dog_04890.jpg    Label= german 
 
-Filename= gecko_80.jpg    Label= gecko
+Filename= German_shepherd_dog_04890.jpg    Label= german shepherd 
 
-Filename= gecko_80.jpg    Label= gecko
+Filename= German_shepherd_dog_04890.jpg    Label= german shepherd dog 
 
-Filename= Great_dane_05320.jpg    Label= great
+Filename= German_shepherd_dog_04890.jpg    Label= german shepherd dog 
 
-Filename= Great_dane_05320.jpg    Label= greatdane
+Filename= Basenji_00974.jpg    Label= basenji 
 
-Filename= Great_dane_05320.jpg    Label= greatdane
+Filename= Basenji_00974.jpg    Label= basenji 
 
-Filename= Golden_retriever_05257.jpg    Label= golden
+Filename= Golden_retriever_05257.jpg    Label= golden 
 
-Filename= Golden_retriever_05257.jpg    Label= goldenretriever
+Filename= Golden_retriever_05257.jpg    Label= golden retriever 
 
-Filename= Golden_retriever_05257.jpg    Label= goldenretriever
+Filename= Golden_retriever_05257.jpg    Label= golden retriever 
 
-Filename= Poodle_07927.jpg    Label= poodle
+Filename= Beagle_01170.jpg    Label= beagle 
 
-Filename= Poodle_07927.jpg    Label= poodle
+Filename= Beagle_01170.jpg    Label= beagle 
 
-Filename= Golden_retriever_05195.jpg    Label= golden
+Filename= Golden_retriever_05195.jpg    Label= golden 
 
-Filename= Golden_retriever_05195.jpg    Label= goldenretriever
+Filename= Golden_retriever_05195.jpg    Label= golden retriever 
 
-Filename= Golden_retriever_05195.jpg    Label= goldenretriever
+Filename= Golden_retriever_05195.jpg    Label= golden retriever 
 
-Filename= Miniature_schnauzer_06884.jpg    Label= miniature
+Filename= great_horned_owl_02.jpg    Label= great 
 
-Filename= Miniature_schnauzer_06884.jpg    Label= miniatureschnauzer
+Filename= great_horned_owl_02.jpg    Label= great horned 
 
-Filename= Miniature_schnauzer_06884.jpg    Label= miniatureschnauzer
+Filename= great_horned_owl_02.jpg    Label= great horned owl 
 
-Filename= Rabbit_002.jpg    Label= rabbit
+Filename= great_horned_owl_02.jpg    Label= great horned owl 
 
-Filename= Rabbit_002.jpg    Label= rabbit
+Filename= Dalmatian_04017.jpg    Label= dalmatian 
 
-Filename= German_shepherd_dog_04931.jpg    Label= german
+Filename= Dalmatian_04017.jpg    Label= dalmatian 
 
-Filename= German_shepherd_dog_04931.jpg    Label= germanshepherd
+Filename= cat_07.jpg    Label= cat 
 
-Filename= German_shepherd_dog_04931.jpg    Label= germanshepherddog
+Filename= cat_07.jpg    Label= cat 
 
-Filename= German_shepherd_dog_04931.jpg    Label= germanshepherddog
+Filename= Boxer_02426.jpg    Label= boxer 
 
-Filename= Saint_bernard_08036.jpg    Label= saint
+Filename= Boxer_02426.jpg    Label= boxer 
 
-Filename= Saint_bernard_08036.jpg    Label= saintbernard
+Filename= skunk_029.jpg    Label= skunk 
 
-Filename= Saint_bernard_08036.jpg    Label= saintbernard
+Filename= skunk_029.jpg    Label= skunk 
 
-Filename= cat_02.jpg    Label= cat
+Filename= fox_squirrel_01.jpg    Label= fox 
 
-Filename= cat_02.jpg    Label= cat
+Filename= fox_squirrel_01.jpg    Label= fox squirrel 
 
-Filename= Poodle_07956.jpg    Label= poodle
+Filename= fox_squirrel_01.jpg    Label= fox squirrel 
 
-Filename= Poodle_07956.jpg    Label= poodle
+Filename= German_shorthaired_pointer_04986.jpg    Label= german 
 
-Filename= Collie_03797.jpg    Label= collie
+Filename= German_shorthaired_pointer_04986.jpg    Label= german shorthaired 
 
-Filename= Collie_03797.jpg    Label= collie
+Filename= German_shorthaired_pointer_04986.jpg    Label= german shorthaired pointer 
 
-Filename= polar_bear_04.jpg    Label= polar
+Filename= German_shorthaired_pointer_04986.jpg    Label= german shorthaired pointer 
 
-Filename= polar_bear_04.jpg    Label= polarbear
+Filename= German_shepherd_dog_04931.jpg    Label= german 
 
-Filename= polar_bear_04.jpg    Label= polarbear
+Filename= German_shepherd_dog_04931.jpg    Label= german shepherd 
 
-Filename= German_shorthaired_pointer_04986.jpg    Label= german
+Filename= German_shepherd_dog_04931.jpg    Label= german shepherd dog 
 
-Filename= German_shorthaired_pointer_04986.jpg    Label= germanshorthaired
+Filename= German_shepherd_dog_04931.jpg    Label= german shepherd dog 
 
-Filename= German_shorthaired_pointer_04986.jpg    Label= germanshorthairedpointer
+Filename= Dalmatian_04068.jpg    Label= dalmatian 
 
-Filename= German_shorthaired_pointer_04986.jpg    Label= germanshorthairedpointer
+Filename= Dalmatian_04068.jpg    Label= dalmatian 
 
 Pet Image Label Dictionary has 40 key-value pairs.
 Below are 10 of them:
- 1 key:       Boston_terrier_02259.jpg  label:              bostonterrier
- 2 key:                Boxer_02426.jpg  label:                      boxer
- 3 key:            Dalmatian_04017.jpg  label:                  dalmatian
- 4 key:       Boston_terrier_02285.jpg  label:              bostonterrier
- 5 key:                  skunk_029.jpg  label:                      skunk
- 6 key:            Dalmatian_04068.jpg  label:                  dalmatian
- 7 key:       Cocker_spaniel_03750.jpg  label:              cockerspaniel
- 8 key:       Great_pyrenees_05367.jpg  label:              greatpyrenees
- 9 key:       Boston_terrier_02303.jpg  label:              bostonterrier
-10 key:            Dalmatian_04037.jpg  label:                  dalmatian
+ 1 key:              polar_bear_04.jpg  label:                 polar bear
+ 2 key:         Basset_hound_01034.jpg  label:               basset hound
+ 3 key:                     cat_02.jpg  label:                        cat
+ 4 key:               Beagle_01141.jpg  label:                     beagle
+ 5 key:                   gecko_02.jpg  label:                      gecko
+ 6 key:           Great_dane_05320.jpg  label:                 great dane
+ 7 key:       Boston_terrier_02285.jpg  label:             boston terrier
+ 8 key:       Great_pyrenees_05367.jpg  label:             great pyrenees
+ 9 key:       Boston_terrier_02303.jpg  label:             boston terrier
+10 key:                 Rabbit_002.jpg  label:                     rabbit
+polar_bear_04.jpg ['polar bear', 'ice bear, polar bear, ursus maritimus, thalarctos maritimus', 1]
+
+Basset_hound_01034.jpg ['basset hound', 'basset, basset hound', 1]
+
+cat_02.jpg ['cat', 'tiger cat, cat', 1]
+
+Beagle_01141.jpg ['beagle', 'english foxhound', 0]
+
+gecko_02.jpg ['gecko', 'alligator lizard', 0]
+
+Great_dane_05320.jpg ['great dane', 'great dane', 1]
+
+Boston_terrier_02285.jpg ['boston terrier', 'basenji', 0]
+
+Great_pyrenees_05367.jpg ['great pyrenees', 'kuvasz', 0]
+
+Boston_terrier_02303.jpg ['boston terrier', 'boston bull, boston terrier', 1]
+
+Rabbit_002.jpg ['rabbit', 'wood rabbit, cottontail, cottontail rabbit, rabbit', 1]
+
+Poodle_07927.jpg ['poodle', 'standard poodle, poodle', 1]
+
+Golden_retriever_05182.jpg ['golden retriever', 'tibetan mastiff', 0]
+
+Poodle_07956.jpg ['poodle', 'standard poodle, poodle', 1]
+
+gecko_80.jpg ['gecko', 'tree frog, tree-frog', 0]
+
+Saint_bernard_08036.jpg ['saint bernard', 'saint bernard, st bernard', 1]
+
+Dalmatian_04037.jpg ['dalmatian', 'dalmatian, coach dog, carriage dog', 1]
+
+Basenji_00963.jpg ['basenji', 'basenji', 1]
+
+Miniature_schnauzer_06884.jpg ['miniature schnauzer', 'miniature schnauzer', 1]
+
+Beagle_01125.jpg ['beagle', 'beagle', 1]
+
+cat_01.jpg ['cat', 'african hunting dog, hyena dog, cape hunting dog, lycaon pictus', 0]
+
+Golden_retriever_05223.jpg ['golden retriever', 'golden retriever', 1]
+
+Collie_03797.jpg ['collie', 'collie', 1]
+
+Great_pyrenees_05435.jpg ['great pyrenees', 'great pyrenees', 1]
+
+Cocker_spaniel_03750.jpg ['cocker spaniel', 'cocker spaniel, english cocker spaniel, cocker', 1]
+
+Boston_terrier_02259.jpg ['boston terrier', 'boston bull, boston terrier', 1]
+
+Saint_bernard_08010.jpg ['saint bernard', 'saint bernard, st bernard', 1]
+
+German_shepherd_dog_04890.jpg ['german shepherd dog', 'german shepherd, german shepherd dog, german police dog, alsatian', 1]
+
+Basenji_00974.jpg ['basenji', 'basenji', 1]
+
+Golden_retriever_05257.jpg ['golden retriever', 'afghan hound, afghan', 0]
+
+Beagle_01170.jpg ['beagle', 'walker hound, walker foxhound', 0]
+
+Golden_retriever_05195.jpg ['golden retriever', 'golden retriever', 1]
+
+great_horned_owl_02.jpg ['great horned owl', 'ruffed grouse, partridge, bonasa umbellus', 0]
+
+Dalmatian_04017.jpg ['dalmatian', 'dalmatian, coach dog, carriage dog', 1]
+
+cat_07.jpg ['cat', 'egyptian cat, cat', 1]
+
+Boxer_02426.jpg ['boxer', 'boxer', 1]
+
+skunk_029.jpg ['skunk', 'skunk, polecat, wood pussy', 1]
+
+fox_squirrel_01.jpg ['fox squirrel', 'fox squirrel, eastern fox squirrel, sciurus niger', 1]
+
+German_shorthaired_pointer_04986.jpg ['german shorthaired pointer', 'german shorthaired pointer', 1]
+
+German_shepherd_dog_04931.jpg ['german shepherd dog', 'german shepherd, german shepherd dog, german police dog, alsatian', 1]
+
+Dalmatian_04068.jpg ['dalmatian', 'dalmatian, coach dog, carriage dog', 1]
+
 
      MATCH:
 
-               Boxer_02426.jpg: 
-Real:                      boxer   Classifier:                          boxer
+             polar_bear_04.jpg: 
+Real:                 polar bear   Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
 
-           Dalmatian_04017.jpg: 
-Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog
-
-                 skunk_029.jpg: 
-Real:                      skunk   Classifier:     skunk, polecat, wood pussy
-
-           Dalmatian_04068.jpg: 
-Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog
-
-           Dalmatian_04037.jpg: 
-Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog
-
-             Basenji_00974.jpg: 
-Real:                    basenji   Classifier:                        basenji
-
-              Beagle_01125.jpg: 
-Real:                     beagle   Classifier:                         beagle
-
-                    cat_07.jpg: 
-Real:                        cat   Classifier:              egyptian cat, cat
-
-             Basenji_00963.jpg: 
-Real:                    basenji   Classifier:                        basenji
-
-              Poodle_07927.jpg: 
-Real:                     poodle   Classifier:        standard poodle, poodle
-
-                Rabbit_002.jpg: 
-Real:                     rabbit   Classifier: wood rabbit, cottontail, cottontail rabbit, rabbit
+        Basset_hound_01034.jpg: 
+Real:               basset hound   Classifier:           basset, basset hound
 
                     cat_02.jpg: 
 Real:                        cat   Classifier:                 tiger cat, cat
 
+          Great_dane_05320.jpg: 
+Real:                 great dane   Classifier:                     great dane
+
+      Boston_terrier_02303.jpg: 
+Real:             boston terrier   Classifier:    boston bull, boston terrier
+
+                Rabbit_002.jpg: 
+Real:                     rabbit   Classifier: wood rabbit, cottontail, cottontail rabbit, rabbit
+
+              Poodle_07927.jpg: 
+Real:                     poodle   Classifier:        standard poodle, poodle
+
               Poodle_07956.jpg: 
 Real:                     poodle   Classifier:        standard poodle, poodle
+
+       Saint_bernard_08036.jpg: 
+Real:              saint bernard   Classifier:      saint bernard, st bernard
+
+           Dalmatian_04037.jpg: 
+Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog
+
+             Basenji_00963.jpg: 
+Real:                    basenji   Classifier:                        basenji
+
+ Miniature_schnauzer_06884.jpg: 
+Real:        miniature schnauzer   Classifier:            miniature schnauzer
+
+              Beagle_01125.jpg: 
+Real:                     beagle   Classifier:                         beagle
+
+    Golden_retriever_05223.jpg: 
+Real:           golden retriever   Classifier:               golden retriever
 
               Collie_03797.jpg: 
 Real:                     collie   Classifier:                         collie
 
- NOT A MATCH:
-
-      Boston_terrier_02259.jpg: 
-Real:              bostonterrier   Classifier:    boston bull, boston terrier
-
-      Boston_terrier_02285.jpg: 
-Real:              bostonterrier   Classifier:                        basenji
+      Great_pyrenees_05435.jpg: 
+Real:             great pyrenees   Classifier:                 great pyrenees
 
       Cocker_spaniel_03750.jpg: 
-Real:              cockerspaniel   Classifier: cocker spaniel, english cocker spaniel, cocker
+Real:             cocker spaniel   Classifier: cocker spaniel, english cocker spaniel, cocker
 
-      Great_pyrenees_05367.jpg: 
-Real:              greatpyrenees   Classifier:                         kuvasz
-
-      Boston_terrier_02303.jpg: 
-Real:              bostonterrier   Classifier:    boston bull, boston terrier
-
-                    cat_01.jpg: 
-Real:                        cat   Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
-
-              Beagle_01170.jpg: 
-Real:                     beagle   Classifier:  walker hound, walker foxhound
+      Boston_terrier_02259.jpg: 
+Real:             boston terrier   Classifier:    boston bull, boston terrier
 
        Saint_bernard_08010.jpg: 
-Real:               saintbernard   Classifier:      saint bernard, st bernard
+Real:              saint bernard   Classifier:      saint bernard, st bernard
 
-       great_horned_owl_02.jpg: 
-Real:             greathornedowl   Classifier: ruffed grouse, partridge, bonasa umbellus
+ German_shepherd_dog_04890.jpg: 
+Real:        german shepherd dog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian
 
-      Great_pyrenees_05435.jpg: 
-Real:              greatpyrenees   Classifier:                 great pyrenees
+             Basenji_00974.jpg: 
+Real:                    basenji   Classifier:                        basenji
+
+    Golden_retriever_05195.jpg: 
+Real:           golden retriever   Classifier:               golden retriever
+
+           Dalmatian_04017.jpg: 
+Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog
+
+                    cat_07.jpg: 
+Real:                        cat   Classifier:              egyptian cat, cat
+
+               Boxer_02426.jpg: 
+Real:                      boxer   Classifier:                          boxer
+
+                 skunk_029.jpg: 
+Real:                      skunk   Classifier:     skunk, polecat, wood pussy
+
+           fox_squirrel_01.jpg: 
+Real:               fox squirrel   Classifier: fox squirrel, eastern fox squirrel, sciurus niger
+
+German_shorthaired_pointer_04986.jpg: 
+Real: german shorthaired pointer   Classifier:     german shorthaired pointer
+
+ German_shepherd_dog_04931.jpg: 
+Real:        german shepherd dog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian
+
+           Dalmatian_04068.jpg: 
+Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog
+
+ NOT A MATCH:
 
               Beagle_01141.jpg: 
 Real:                     beagle   Classifier:               english foxhound
 
- German_shepherd_dog_04890.jpg: 
-Real:          germanshepherddog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian
-
-           fox_squirrel_01.jpg: 
-Real:                foxsquirrel   Classifier: fox squirrel, eastern fox squirrel, sciurus niger
-
                   gecko_02.jpg: 
 Real:                      gecko   Classifier:               alligator lizard
 
-        Basset_hound_01034.jpg: 
-Real:                bassethound   Classifier:           basset, basset hound
+      Boston_terrier_02285.jpg: 
+Real:             boston terrier   Classifier:                        basenji
+
+      Great_pyrenees_05367.jpg: 
+Real:             great pyrenees   Classifier:                         kuvasz
 
     Golden_retriever_05182.jpg: 
-Real:            goldenretriever   Classifier:                tibetan mastiff
-
-    Golden_retriever_05223.jpg: 
-Real:            goldenretriever   Classifier:               golden retriever
+Real:           golden retriever   Classifier:                tibetan mastiff
 
                   gecko_80.jpg: 
 Real:                      gecko   Classifier:           tree frog, tree-frog
 
-          Great_dane_05320.jpg: 
-Real:                  greatdane   Classifier:                     great dane
+                    cat_01.jpg: 
+Real:                        cat   Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus
 
     Golden_retriever_05257.jpg: 
-Real:            goldenretriever   Classifier:           afghan hound, afghan
+Real:           golden retriever   Classifier:           afghan hound, afghan
 
-    Golden_retriever_05195.jpg: 
-Real:            goldenretriever   Classifier:               golden retriever
+              Beagle_01170.jpg: 
+Real:                     beagle   Classifier:  walker hound, walker foxhound
 
- Miniature_schnauzer_06884.jpg: 
-Real:         miniatureschnauzer   Classifier:            miniature schnauzer
+       great_horned_owl_02.jpg: 
+Real:           great horned owl   Classifier: ruffed grouse, partridge, bonasa umbellus
 
- German_shepherd_dog_04931.jpg: 
-Real:          germanshepherddog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian
-
-       Saint_bernard_08036.jpg: 
-Real:               saintbernard   Classifier:      saint bernard, st bernard
-
-             polar_bear_04.jpg: 
-Real:                  polarbear   Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus
-
-German_shorthaired_pointer_04986.jpg: 
-Real:   germanshorthairedpointer   Classifier:     german shorthaired pointer
-
-# Total Images 40 # Matches: 14 # NOT Matches: 26
+# Total Images 40 # Matches: 30 # NOT Matches: 10
 
      MATCH:
 
-               Boxer_02426.jpg: 
-Real:                      boxer   Classifier:                          boxer  
-PetLabelDog: 1  ClassLabelDog: 1
-
-           Dalmatian_04017.jpg: 
-Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog  
-PetLabelDog: 1  ClassLabelDog: 1
-
-                 skunk_029.jpg: 
-Real:                      skunk   Classifier:     skunk, polecat, wood pussy  
+             polar_bear_04.jpg: 
+Real:                 polar bear   Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus  
 PetLabelDog: 0  ClassLabelDog: 0
 
-           Dalmatian_04068.jpg: 
-Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog  
+        Basset_hound_01034.jpg: 
+Real:               basset hound   Classifier:           basset, basset hound  
 PetLabelDog: 1  ClassLabelDog: 1
 
-           Dalmatian_04037.jpg: 
-Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog  
-PetLabelDog: 1  ClassLabelDog: 1
-
-             Basenji_00974.jpg: 
-Real:                    basenji   Classifier:                        basenji  
-PetLabelDog: 1  ClassLabelDog: 1
-
-              Beagle_01125.jpg: 
-Real:                     beagle   Classifier:                         beagle  
-PetLabelDog: 1  ClassLabelDog: 1
-
-                    cat_07.jpg: 
-Real:                        cat   Classifier:              egyptian cat, cat  
+                    cat_02.jpg: 
+Real:                        cat   Classifier:                 tiger cat, cat  
 PetLabelDog: 0  ClassLabelDog: 0
 
-             Basenji_00963.jpg: 
-Real:                    basenji   Classifier:                        basenji  
+          Great_dane_05320.jpg: 
+Real:                 great dane   Classifier:                     great dane  
 PetLabelDog: 1  ClassLabelDog: 1
 
-              Poodle_07927.jpg: 
-Real:                     poodle   Classifier:        standard poodle, poodle  
+      Boston_terrier_02303.jpg: 
+Real:             boston terrier   Classifier:    boston bull, boston terrier  
 PetLabelDog: 1  ClassLabelDog: 1
 
                 Rabbit_002.jpg: 
 Real:                     rabbit   Classifier: wood rabbit, cottontail, cottontail rabbit, rabbit  
 PetLabelDog: 0  ClassLabelDog: 0
 
-                    cat_02.jpg: 
-Real:                        cat   Classifier:                 tiger cat, cat  
-PetLabelDog: 0  ClassLabelDog: 0
+              Poodle_07927.jpg: 
+Real:                     poodle   Classifier:        standard poodle, poodle  
+PetLabelDog: 1  ClassLabelDog: 1
 
               Poodle_07956.jpg: 
 Real:                     poodle   Classifier:        standard poodle, poodle  
+PetLabelDog: 1  ClassLabelDog: 1
+
+       Saint_bernard_08036.jpg: 
+Real:              saint bernard   Classifier:      saint bernard, st bernard  
+PetLabelDog: 1  ClassLabelDog: 1
+
+           Dalmatian_04037.jpg: 
+Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog  
+PetLabelDog: 1  ClassLabelDog: 1
+
+             Basenji_00963.jpg: 
+Real:                    basenji   Classifier:                        basenji  
+PetLabelDog: 1  ClassLabelDog: 1
+
+ Miniature_schnauzer_06884.jpg: 
+Real:        miniature schnauzer   Classifier:            miniature schnauzer  
+PetLabelDog: 1  ClassLabelDog: 1
+
+              Beagle_01125.jpg: 
+Real:                     beagle   Classifier:                         beagle  
+PetLabelDog: 1  ClassLabelDog: 1
+
+    Golden_retriever_05223.jpg: 
+Real:           golden retriever   Classifier:               golden retriever  
 PetLabelDog: 1  ClassLabelDog: 1
 
               Collie_03797.jpg: 
 Real:                     collie   Classifier:                         collie  
 PetLabelDog: 1  ClassLabelDog: 1
 
- NOT A MATCH:
-
-      Boston_terrier_02259.jpg: 
-Real:              bostonterrier   Classifier:    boston bull, boston terrier  
-PetLabelDog: 0  ClassLabelDog: 1
-
-      Boston_terrier_02285.jpg: 
-Real:              bostonterrier   Classifier:                        basenji  
-PetLabelDog: 0  ClassLabelDog: 1
+      Great_pyrenees_05435.jpg: 
+Real:             great pyrenees   Classifier:                 great pyrenees  
+PetLabelDog: 1  ClassLabelDog: 1
 
       Cocker_spaniel_03750.jpg: 
-Real:              cockerspaniel   Classifier: cocker spaniel, english cocker spaniel, cocker  
-PetLabelDog: 0  ClassLabelDog: 1
+Real:             cocker spaniel   Classifier: cocker spaniel, english cocker spaniel, cocker  
+PetLabelDog: 1  ClassLabelDog: 1
 
-      Great_pyrenees_05367.jpg: 
-Real:              greatpyrenees   Classifier:                         kuvasz  
-PetLabelDog: 0  ClassLabelDog: 1
-
-      Boston_terrier_02303.jpg: 
-Real:              bostonterrier   Classifier:    boston bull, boston terrier  
-PetLabelDog: 0  ClassLabelDog: 1
-
-                    cat_01.jpg: 
-Real:                        cat   Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus  
-PetLabelDog: 0  ClassLabelDog: 0
-
-              Beagle_01170.jpg: 
-Real:                     beagle   Classifier:  walker hound, walker foxhound  
+      Boston_terrier_02259.jpg: 
+Real:             boston terrier   Classifier:    boston bull, boston terrier  
 PetLabelDog: 1  ClassLabelDog: 1
 
        Saint_bernard_08010.jpg: 
-Real:               saintbernard   Classifier:      saint bernard, st bernard  
-PetLabelDog: 0  ClassLabelDog: 1
+Real:              saint bernard   Classifier:      saint bernard, st bernard  
+PetLabelDog: 1  ClassLabelDog: 1
 
-       great_horned_owl_02.jpg: 
-Real:             greathornedowl   Classifier: ruffed grouse, partridge, bonasa umbellus  
+ German_shepherd_dog_04890.jpg: 
+Real:        german shepherd dog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian  
+PetLabelDog: 1  ClassLabelDog: 1
+
+             Basenji_00974.jpg: 
+Real:                    basenji   Classifier:                        basenji  
+PetLabelDog: 1  ClassLabelDog: 1
+
+    Golden_retriever_05195.jpg: 
+Real:           golden retriever   Classifier:               golden retriever  
+PetLabelDog: 1  ClassLabelDog: 1
+
+           Dalmatian_04017.jpg: 
+Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog  
+PetLabelDog: 1  ClassLabelDog: 1
+
+                    cat_07.jpg: 
+Real:                        cat   Classifier:              egyptian cat, cat  
 PetLabelDog: 0  ClassLabelDog: 0
 
-      Great_pyrenees_05435.jpg: 
-Real:              greatpyrenees   Classifier:                 great pyrenees  
-PetLabelDog: 0  ClassLabelDog: 1
+               Boxer_02426.jpg: 
+Real:                      boxer   Classifier:                          boxer  
+PetLabelDog: 1  ClassLabelDog: 1
+
+                 skunk_029.jpg: 
+Real:                      skunk   Classifier:     skunk, polecat, wood pussy  
+PetLabelDog: 0  ClassLabelDog: 0
+
+           fox_squirrel_01.jpg: 
+Real:               fox squirrel   Classifier: fox squirrel, eastern fox squirrel, sciurus niger  
+PetLabelDog: 0  ClassLabelDog: 0
+
+German_shorthaired_pointer_04986.jpg: 
+Real: german shorthaired pointer   Classifier:     german shorthaired pointer  
+PetLabelDog: 1  ClassLabelDog: 1
+
+ German_shepherd_dog_04931.jpg: 
+Real:        german shepherd dog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian  
+PetLabelDog: 1  ClassLabelDog: 1
+
+           Dalmatian_04068.jpg: 
+Real:                  dalmatian   Classifier: dalmatian, coach dog, carriage dog  
+PetLabelDog: 1  ClassLabelDog: 1
+
+ NOT A MATCH:
 
               Beagle_01141.jpg: 
 Real:                     beagle   Classifier:               english foxhound  
 PetLabelDog: 1  ClassLabelDog: 1
 
- German_shepherd_dog_04890.jpg: 
-Real:          germanshepherddog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian  
-PetLabelDog: 0  ClassLabelDog: 1
-
-           fox_squirrel_01.jpg: 
-Real:                foxsquirrel   Classifier: fox squirrel, eastern fox squirrel, sciurus niger  
-PetLabelDog: 0  ClassLabelDog: 0
-
                   gecko_02.jpg: 
 Real:                      gecko   Classifier:               alligator lizard  
 PetLabelDog: 0  ClassLabelDog: 0
 
-        Basset_hound_01034.jpg: 
-Real:                bassethound   Classifier:           basset, basset hound  
-PetLabelDog: 0  ClassLabelDog: 1
+      Boston_terrier_02285.jpg: 
+Real:             boston terrier   Classifier:                        basenji  
+PetLabelDog: 1  ClassLabelDog: 1
+
+      Great_pyrenees_05367.jpg: 
+Real:             great pyrenees   Classifier:                         kuvasz  
+PetLabelDog: 1  ClassLabelDog: 1
 
     Golden_retriever_05182.jpg: 
-Real:            goldenretriever   Classifier:                tibetan mastiff  
-PetLabelDog: 0  ClassLabelDog: 1
-
-    Golden_retriever_05223.jpg: 
-Real:            goldenretriever   Classifier:               golden retriever  
-PetLabelDog: 0  ClassLabelDog: 1
+Real:           golden retriever   Classifier:                tibetan mastiff  
+PetLabelDog: 1  ClassLabelDog: 1
 
                   gecko_80.jpg: 
 Real:                      gecko   Classifier:           tree frog, tree-frog  
 PetLabelDog: 0  ClassLabelDog: 0
 
-          Great_dane_05320.jpg: 
-Real:                  greatdane   Classifier:                     great dane  
-PetLabelDog: 0  ClassLabelDog: 1
-
-    Golden_retriever_05257.jpg: 
-Real:            goldenretriever   Classifier:           afghan hound, afghan  
-PetLabelDog: 0  ClassLabelDog: 1
-
-    Golden_retriever_05195.jpg: 
-Real:            goldenretriever   Classifier:               golden retriever  
-PetLabelDog: 0  ClassLabelDog: 1
-
- Miniature_schnauzer_06884.jpg: 
-Real:         miniatureschnauzer   Classifier:            miniature schnauzer  
-PetLabelDog: 0  ClassLabelDog: 1
-
- German_shepherd_dog_04931.jpg: 
-Real:          germanshepherddog   Classifier: german shepherd, german shepherd dog, german police dog, alsatian  
-PetLabelDog: 0  ClassLabelDog: 1
-
-       Saint_bernard_08036.jpg: 
-Real:               saintbernard   Classifier:      saint bernard, st bernard  
-PetLabelDog: 0  ClassLabelDog: 1
-
-             polar_bear_04.jpg: 
-Real:                  polarbear   Classifier: ice bear, polar bear, ursus maritimus, thalarctos maritimus  
+                    cat_01.jpg: 
+Real:                        cat   Classifier: african hunting dog, hyena dog, cape hunting dog, lycaon pictus  
 PetLabelDog: 0  ClassLabelDog: 0
 
-German_shorthaired_pointer_04986.jpg: 
-Real:   germanshorthairedpointer   Classifier:     german shorthaired pointer  
-PetLabelDog: 0  ClassLabelDog: 1
+    Golden_retriever_05257.jpg: 
+Real:           golden retriever   Classifier:           afghan hound, afghan  
+PetLabelDog: 1  ClassLabelDog: 1
 
-# Total Images 40 # Matches: 14 # NOT Matches: 26
-{'n_dogs_img': 12, 'n_match': 14, 'n_correct_dogs': 12, 'n_correct_notdogs': 28, 'n_correct_breed': 10, 'n_images': 40, 'n_notdogs_img': 28, 'pct_match': 35.0, 'pct_correct_dogs': 100.0, 'pct_correct_breed': 83.33333333333334, 'pct_correct_notdogs': 100.0}
+              Beagle_01170.jpg: 
+Real:                     beagle   Classifier:  walker hound, walker foxhound  
+PetLabelDog: 1  ClassLabelDog: 1
+
+       great_horned_owl_02.jpg: 
+Real:           great horned owl   Classifier: ruffed grouse, partridge, bonasa umbellus  
+PetLabelDog: 0  ClassLabelDog: 0
+
+# Total Images 40 # Matches: 30 # NOT Matches: 10
+n_correct_notdogs: 10
+n_notdogs_img: 10
+{'n_dogs_img': 30, 'n_match': 30, 'n_correct_dogs': 30, 'n_correct_notdogs': 10, 'n_correct_breed': 24, 'n_images': 40, 'n_notdogs_img': 10, 'pct_match': 75.0, 'pct_correct_dogs': 100.0, 'pct_correct_breed': 80.0, 'pct_correct_notdogs': 100.0}
 
  ** Statistics from calculates_results_stats() function:
-N Images: 40  N Dog Images: 12  N NotDog Images: 28 
-Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  83.3
+N Images: 40  N Dog Images: 30  N NotDog Images: 10 
+Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  80.0
 
  ** Check Statistics - calculated from this function as a check:
-N Images: 40  N Dog Images: 12  N NotDog Images: 28 
-Pct Corr dog: 100.0 Pct Corr NOTdog:  35.7  Pct Corr Breed:  83.3
+N Images: 40  N Dog Images: 30  N NotDog Images: 10 
+Pct Corr dog: 100.0 Pct Corr NOTdog: 100.0  Pct Corr Breed:  80.0
 
 
  ***Results Summary for CNN model architecture ALEXNET ***
 N images            :  40
-N dog images        :  12
-N not dog images    :  28
+N dog images        :  30
+N not dog images    :  10
  
-pct_match           : 35.00
+pct_match           : 75.00
 pct_correct_dogs    : 100.00
-pct_correct_breed   : 83.33
+pct_correct_breed   : 80.00
 pct_correct_notdogs : 100.00
 
 INCORRECT Dog Breed Assignment:
-Real:                     beagle   Classifier:  walker hound, walker foxhound
 Real:                     beagle   Classifier:               english foxhound
+Real:             boston terrier   Classifier:                        basenji
+Real:             great pyrenees   Classifier:                         kuvasz
+Real:           golden retriever   Classifier:                tibetan mastiff
+Real:           golden retriever   Classifier:           afghan hound, afghan
+Real:                     beagle   Classifier:  walker hound, walker foxhound
 
-** Total Elapsed Runtime: 0:0:15
+** Total Elapsed Runtime: 0:0:16

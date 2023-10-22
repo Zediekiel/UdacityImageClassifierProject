@@ -3,32 +3,38 @@ Command Line Arguments:
     arch = resnet 
  dogfile = dognames.txt
 
+Filename= boat.jpg    Label= 
+
+Filename= beagle.jpg    Label= 
+
 Filename= iguana.jpg    Label= 
 
 Filename= beagle 2.jpg    Label= 
 
-Filename= beagle.jpg    Label= 
-
-Filename= boat.jpg    Label= 
-
 Pet Image Label Dictionary has 4 key-value pairs.
 Below are 4 of them:
- 1 key:                     iguana.jpg  label:                           
- 2 key:                   beagle 2.jpg  label:                           
- 3 key:                     beagle.jpg  label:                           
- 4 key:                       boat.jpg  label:                           
-iguana.jpg ['', 'common iguana, iguana, iguana iguana', 0]
-
-beagle 2.jpg ['', 'basenji', 0]
+ 1 key:                       boat.jpg  label:                           
+ 2 key:                     beagle.jpg  label:                           
+ 3 key:                     iguana.jpg  label:                           
+ 4 key:                   beagle 2.jpg  label:                           
+boat.jpg ['', 'gondola', 0]
 
 beagle.jpg ['', 'beagle', 0]
 
-boat.jpg ['', 'gondola', 0]
+iguana.jpg ['', 'common iguana, iguana, iguana iguana', 0]
+
+beagle 2.jpg ['', 'basenji', 0]
 
 
      MATCH:
 
  NOT A MATCH:
+
+                      boat.jpg: 
+Real:                              Classifier:                        gondola
+
+                    beagle.jpg: 
+Real:                              Classifier:                         beagle
 
                     iguana.jpg: 
 Real:                              Classifier: common iguana, iguana, iguana iguana
@@ -36,17 +42,19 @@ Real:                              Classifier: common iguana, iguana, iguana igu
                   beagle 2.jpg: 
 Real:                              Classifier:                        basenji
 
-                    beagle.jpg: 
-Real:                              Classifier:                         beagle
-
-                      boat.jpg: 
-Real:                              Classifier:                        gondola
-
 # Total Images 4 # Matches: 0 # NOT Matches: 4
 
      MATCH:
 
  NOT A MATCH:
+
+                      boat.jpg: 
+Real:                              Classifier:                        gondola  
+PetLabelDog: 0  ClassLabelDog: 0
+
+                    beagle.jpg: 
+Real:                              Classifier:                         beagle  
+PetLabelDog: 0  ClassLabelDog: 1
 
                     iguana.jpg: 
 Real:                              Classifier: common iguana, iguana, iguana iguana  
@@ -55,13 +63,5 @@ PetLabelDog: 0  ClassLabelDog: 0
                   beagle 2.jpg: 
 Real:                              Classifier:                        basenji  
 PetLabelDog: 0  ClassLabelDog: 1
-
-                    beagle.jpg: 
-Real:                              Classifier:                         beagle  
-PetLabelDog: 0  ClassLabelDog: 1
-
-                      boat.jpg: 
-Real:                              Classifier:                        gondola  
-PetLabelDog: 0  ClassLabelDog: 0
 
 # Total Images 4 # Matches: 0 # NOT Matches: 4

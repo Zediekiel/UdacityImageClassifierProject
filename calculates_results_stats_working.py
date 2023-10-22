@@ -108,9 +108,9 @@ def calculates_results_stats(results_dic):
         #           classified NOT-a-dog images.
         #           
         # Pet Image Label is NOT a Dog
-        else:
             # Classifier classifies image as NOT a Dog(& pet image isn't a dog)
             # counts number of correct NOT dog clasifications.
+        if results_dic[key][3] == 0 and results_dic[key][4]==0:
             results_stats_dic['n_correct_notdogs'] += 1        
         if results_dic[key][3] == 1:
             results_stats_dic['n_dogs_img'] += 1
