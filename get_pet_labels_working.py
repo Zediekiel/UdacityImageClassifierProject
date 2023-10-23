@@ -59,7 +59,7 @@ def get_pet_labels(image_dir):
 ## Splits lower case string by _ to break into words 
             word_list_pet_file = low_pet_file.split("_")
 ## Create pet_name starting as empty string
-            pet_name = ""
+
 ## Loops to check if word in pet name is only
 ## alphabetic characters - if true append word
 ## to pet_name separated by trailing space 

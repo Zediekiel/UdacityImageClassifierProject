@@ -3,44 +3,44 @@ Command Line Arguments:
     arch = alexnet 
  dogfile = dognames.txt
 
-Filename= boat.jpg    Label= 
-
 Filename= beagle.jpg    Label= 
-
-Filename= iguana.jpg    Label= 
 
 Filename= beagle 2.jpg    Label= 
 
+Filename= boat.jpg    Label= 
+
+Filename= iguana.jpg    Label= 
+
 Pet Image Label Dictionary has 4 key-value pairs.
 Below are 4 of them:
- 1 key:                       boat.jpg  label:                           
- 2 key:                     beagle.jpg  label:                           
- 3 key:                     iguana.jpg  label:                           
- 4 key:                   beagle 2.jpg  label:                           
-boat.jpg ['', 'fireboat', 0]
-
+ 1 key:                     beagle.jpg  label:                           
+ 2 key:                   beagle 2.jpg  label:                           
+ 3 key:                       boat.jpg  label:                           
+ 4 key:                     iguana.jpg  label:                           
 beagle.jpg ['', 'basenji', 0]
 
-iguana.jpg ['', 'common iguana, iguana, iguana iguana', 0]
-
 beagle 2.jpg ['', 'basenji', 0]
+
+boat.jpg ['', 'fireboat', 0]
+
+iguana.jpg ['', 'common iguana, iguana, iguana iguana', 0]
 
 
      MATCH:
 
  NOT A MATCH:
 
-                      boat.jpg: 
-Real:                              Classifier:                       fireboat
-
                     beagle.jpg: 
 Real:                              Classifier:                        basenji
 
-                    iguana.jpg: 
-Real:                              Classifier: common iguana, iguana, iguana iguana
-
                   beagle 2.jpg: 
 Real:                              Classifier:                        basenji
+
+                      boat.jpg: 
+Real:                              Classifier:                       fireboat
+
+                    iguana.jpg: 
+Real:                              Classifier: common iguana, iguana, iguana iguana
 
 # Total Images 4 # Matches: 0 # NOT Matches: 4
 
@@ -48,20 +48,20 @@ Real:                              Classifier:                        basenji
 
  NOT A MATCH:
 
-                      boat.jpg: 
-Real:                              Classifier:                       fireboat  
-PetLabelDog: 0  ClassLabelDog: 0
-
                     beagle.jpg: 
 Real:                              Classifier:                        basenji  
 PetLabelDog: 0  ClassLabelDog: 1
 
-                    iguana.jpg: 
-Real:                              Classifier: common iguana, iguana, iguana iguana  
-PetLabelDog: 0  ClassLabelDog: 0
-
                   beagle 2.jpg: 
 Real:                              Classifier:                        basenji  
 PetLabelDog: 0  ClassLabelDog: 1
+
+                      boat.jpg: 
+Real:                              Classifier:                       fireboat  
+PetLabelDog: 0  ClassLabelDog: 0
+
+                    iguana.jpg: 
+Real:                              Classifier: common iguana, iguana, iguana iguana  
+PetLabelDog: 0  ClassLabelDog: 0
 
 # Total Images 4 # Matches: 0 # NOT Matches: 4

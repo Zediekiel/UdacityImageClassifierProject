@@ -22,7 +22,8 @@
 ##
 # Imports classifier function for using CNN to classify images 
 from classifier import classifier 
-import os 
+import os.path
+import os
 # TODO 3: Define classify_images function below, specifically replace the None
 #       below by the function definition of the classify_images function. 
 #       Notice that this function doesn't return anything because the 
@@ -70,15 +71,12 @@ import os
     """
 def classify_images(images_dir, results_dic, model):    
     for key in results_dic:
-       model_label = classifier(images_dir+key, model)
+#Note: use of os.path.join() was also suggested by reviewer in previous submission
+       model_label = classifier(os.path.join(images_dir, key), model)
        model_label = model_label.lower().strip()
     # defines truth as pet image label 
        truth = results_dic[key][0]
        model_labels_list = model_label.split(", ") 
-       if truth in model_labels_list:
-           results_dic[key].extend([model_label, 1])
-       else:
-           results_dic[key].extend([model_label, 0])
-    for key, value in results_dic.items():
-        print(key, value)
-        print()
+       #*Alternative code to if statement suggested by previous reviewer below for reference purposes.  
+       match = int(truth in model_labels_list)
+       results_dic[key].extend([model_label,match])
